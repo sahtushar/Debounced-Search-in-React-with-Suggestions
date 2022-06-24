@@ -1,4 +1,4 @@
-# Debounced-Search-in-React
+# Debounced Search in React with Suggestions
 Created with CodeSandbox
 
 *Enter terms like quis,Lorem etc to test in searchbox
